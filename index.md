@@ -7,6 +7,7 @@
 
 * CSE15L is funny
 * CSE12 is funny
+
 ---
 1. Winter
 2. Fall
