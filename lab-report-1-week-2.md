@@ -1,1 +1,2 @@
 Lab report
+![Image](8AB6224C-8C39-4855-9BC6-14EF5EFCC46A_1_105_c.jpeg)
