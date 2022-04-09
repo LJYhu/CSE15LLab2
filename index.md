@@ -16,3 +16,4 @@
 ```
 Can not come up with more words
 ```
+[Lab Report 1](lab-report-1-week-2.html)
