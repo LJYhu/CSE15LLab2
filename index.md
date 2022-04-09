@@ -1,3 +1,18 @@
-CSE15L_Lab2_Report
+# CSE15L_Lab2_Report
+## By [Ke Hu](https://github.com/LJYhu)
 
-We must know. We will know.
+>*We **must** know. We **will** know.*
+
+![Get the Photo](https://commonmark.org/help/images/favicon.png)
+
+* CSE15L is funny
+* CSE12 is funny
+---
+1. Winter
+2. Fall
+
+`Summer` is the best
+
+```
+Can not come up with more words
+```
